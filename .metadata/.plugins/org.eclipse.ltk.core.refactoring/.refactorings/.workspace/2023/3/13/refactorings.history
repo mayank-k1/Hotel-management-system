@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;HOspital_Management_System&apos; to &apos;Hospital_Management_System&apos;" description="Rename resource &apos;HOspital_Management_System&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/HOspital_Management_System" name="Hospital_Management_System" stamp="1680066745534" updateReferences="true"/>
+</session>

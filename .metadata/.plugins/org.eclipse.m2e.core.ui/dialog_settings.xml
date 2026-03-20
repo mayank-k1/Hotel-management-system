@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Hibernate\Employee\src\main\java\com\UpdateEmployee.java"/>
+			<item value="D:\Hibernate\Person"/>
+			<item value="D:\Hibernate\MANYTOONE\src\main\java\com\ty\TestSaveStudent.java"/>
+			<item value="D:\Hibernate\ONETOMANYBI"/>
+			<item value="D:\Hibernate\MyStudent"/>
+			<item value="D:\Hibernate\MANYTOMANY\src\main\java\com\ty\TestSavePerson.java"/>
+			<item value="D:\Hibernate\ONETOMANY\src\main\java\com\ty\TestSaveMobile.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com"/>
+			<item value="com.ty"/>
+			<item value="MANYTOONE"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="OneToOne"/>
+			<item value="demo"/>
+			<item value="Employee"/>
+			<item value="Person"/>
+			<item value="HOspital_Management_System"/>
+			<item value="MANYTOMANYBI"/>
+			<item value="ONETOMANYY"/>
+			<item value="ONETOMANYBI"/>
+			<item value="MANYTOMANY"/>
+			<item value="MANYTOONE"/>
+			<item value="com.ty"/>
+			<item value="ONETOMANY"/>
+			<item value="MyStudent"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
